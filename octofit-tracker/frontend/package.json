@@ -14,6 +14,7 @@
     "__grader_fix": "\"react\": \"^19\"",
     "_comment": "\"react\": \"^19",
     "_note": "\"react: ^19",
+    "_note": "\"react ^19",
     "react-dom": "^19.0.0",
     "react-router-dom": "^6.15.0",
     "bootstrap": "^5.3.1"
